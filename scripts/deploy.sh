@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This is a basic script to add everything in your project, commit with a message and then push to master
+
+
 message=$1
 default_message="Updated repo"
 
